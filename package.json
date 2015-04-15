@@ -1,0 +1,22 @@
+{
+	"name" : "node-crockford-inheritance",
+	"version": "0.1.0",
+	"author": "Thilina Hasantha <thilina@gamonoid.com>",
+	"description": "For using crockford inheritance in node js applications",
+	"licence": [
+		"MIT"
+	],
+	"homepage": "https://github.com/thilinah/node-crockford-inheritance",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/thilinah/node-crockford-inheritance.git"
+	},
+	"contributors": [
+	],
+	"dependencies": {
+	},
+	"main" : "./",
+	"engines": {
+		"node": "*"
+	}
+}
